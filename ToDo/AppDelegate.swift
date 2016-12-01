@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  ToDo
+//  ToDoList
 //
-//  Created by CS3714 on 12/1/16.
-//  Copyright © 2016 CS3714. All rights reserved.
+//  Created by Jesus Fabian on 11/30/16.
+//  Copyright © 2016 Jesus Fabian. All rights reserved.  DONE
 //
 
 import UIKit
@@ -11,17 +11,43 @@ import UIKit
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
+    var dict_listData: NSMutableDictionary = NSMutableDictionary()
     var window: UIWindow?
 
 
+
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+         //Movies
+        let paths = NSSearchPathForDirectoriesInDomains(.documentDirectory, .userDomainMask, true)
+        let documentDirectoryPath = paths[0] as String
+        let plistFilePathInDocumentDirectory = documentDirectoryPath + "/ToDoList.plist"
+        let dictionaryFromFile: NSMutableDictionary? = NSMutableDictionary(contentsOfFile: plistFilePathInDocumentDirectory)
+        if let dictionaryFromFileInDocumentDirectory = dictionaryFromFile {
+            dict_listData = dictionaryFromFileInDocumentDirectory
+        }
+        else {
+            let plistFilePathInMainBundle = Bundle.main.path(forResource: "ToDoList", ofType: "plist")
+            let dictionaryFromFileInMainBundle: NSMutableDictionary? = NSMutableDictionary(contentsOfFile: plistFilePathInMainBundle!)
+            
+            dict_listData = dictionaryFromFileInMainBundle!
+        }
+        
         return true
     }
 
     func applicationWillResignActive(_ application: UIApplication) {
         // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
         // Use this method to pause ongoing tasks, disable timers, and invalidate graphics rendering callbacks. Games should use this method to pause the game.
+        // Define the file path to the CountryCities.plist file in the Document directory
+        let paths = NSSearchPathForDirectoriesInDomains(.documentDirectory, .userDomainMask, true)
+        let documentDirectoryPath = paths[0] as String
+        
+        // Add the plist filename to the document directory path to obtain an absolute path to the plist filename
+        let plistFilePathInDocumentDirectory = documentDirectoryPath + "/ToDoList.plist"
+        
+        // Write the NSMutableDictionary to the CountryCities.plist file in the Document directory
+        dict_listData.write(toFile: plistFilePathInDocumentDirectory, atomically: true)
+        
     }
 
     func applicationDidEnterBackground(_ application: UIApplication) {

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Go Grocery Shopping</key>
+	<array>
+		<string>NO</string>
+		<string>Fresh fruits, eggs, 2% milk, bagels, olive oil, whole grain cereal, reduced-fat cheese, cooking spray, coffee, pepper.</string>
+		<string>Normal</string>
+		<string>2016-12-02 at 21:00</string>
+	</array>
+	<key>Get Ready for Commencement</key>
+	<array>
+		<string>YES</string>
+		<string>Virginia Tech University Ceremony: Friday, December 16, 2016 - 11:00 a.m.  - Procession begins at 10:30 a.m. in Cassell Coliseum. Associate and bachelor’s degrees will be conferred at the university ceremony. The ceremony is expected to last approximately two hours. There are no individual college ceremonies scheduled.</string>
+		<string>High</string>
+		<string>2016-12-16 at 11:00</string>
+	</array>
+	<key>Buy a MacBook Pro</key>
+	<array>
+		<string>NO</string>
+		<string>Buy MacBook Pro 15.4&quot; laptop with Touch Bar and integrated Touch ID sensor. 15.4-inch (diagonal) LED-backlit display with IPS technology; 2880-by-1800 native resolution at 220 pixels per inch with support for millions of colors. 512GB PCIe-based onboard SSD. </string>
+		<string>Normal</string>
+		<string>2017-01-10 at 14:00</string>
+	</array>
+	<key>Go Hiking at Cascades</key>
+	<array>
+		<string>YES</string>
+		<string>This highly scenic, 4-mile round-trip trail meanders along a shaded mountain creek to a 66-foot waterfall within Jefferson National Forest. Hike is low to moderate difficulty. Picnicking area is at the beginning of the trail.  Native trout fishing available in the Little Stony Creek.  Accessible restrooms at the trailhead. Picnic area. Water hydrant for filling water bottles available in the recreation area. Directions:  From Pembroke, turn right on VA 623 (Cascades Drive). Follow for approximately 4 miles; road ends at the recreation area. </string>
+		<string>Low</string>
+		<string>2016-11-26 at 16:00</string>
+	</array>
+	<key>Study for the iOS Final Exam</key>
+	<array>
+		<string>YES</string>
+		<string>Consists of developing an iOS app during the exam period based on a given design specification. Part A: In-Class at 4:00 – 5:15 p.m. in Torgersen 1010 on Nov. 30 Wednesday. Part B: Take-Home (continuation of the final exam). Right click your project folder and select compress. Rename the zip file created as Yourlastname-iOSFinalExam.zip with first letter of your last name capitalized. Upload your zip file to a drive in the cloud such as Google Drive or Dropbox and email the URL with a subject line CS3714 Final Exam Submission to balci@vt.edu before 9:00 a.m. on December 1, Thursday. Late submissions are not allowed.</string>
+		<string>High</string>
+		<string>2016-11-30 at 16:00</string>
+	</array>
+	<key>Order iPad Pro 12.9&quot;</key>
+	<array>
+		<string>NO</string>
+		<string>128GB WiFi Retina display. 12.9-inch (diagonal) LED-backlit Multi-Touch display. 2732-by-2048 resolution at 264 pixels per inch (ppi). Fingerprint-resistant oleophobic coating. Fully laminated display. Antireflective coating.</string>
+		<string>Low</string>
+		<string>2017-01-16 at 22:00</string>
+	</array>
+	<key>Get Ready for the Party</key>
+	<array>
+		<string>YES</string>
+		<string>About 20 people are coming to the party. Select a movie to watch towards the end of the party. Identify songs to play at the party.</string>
+		<string>Low</string>
+		<string>2016-11-26 at 19:30</string>
+	</array>
+	<key>Wash Car</key>
+	<array>
+		<string>YES</string>
+		<string>Southern Classic Soft Cloth Auto Wash, Address: 2855 N Franklin St, Christiansburg, VA 24073, Phone: (540) 382-1450</string>
+		<string>Normal</string>
+		<string>2016-11-19 at 14:45</string>
+	</array>
+	<key>Rent an Apartment</key>
+	<array>
+		<string>NO</string>
+		<string>Check the following URL, http://www.zillow.com/washington-dc/apartments/, in the DC area and select an apartment complex to visit. Check the rental office hours and plan accordingly. </string>
+		<string>High</string>
+		<string>2017-01-04 at 10:30</string>
+	</array>
+	<key>Go Biking on Huckleberry Trail</key>
+	<array>
+		<string>YES</string>
+		<string>The Huckleberry Trail is an asphalt-paved bike/pedestrian path. The trail currently runs from the Blacksburg library to the New River Mall. There are distance markers every half mile. At 2.83 miles it crosses the road to Warm Hearth, at 3.43 miles it crosses Hightop, and at 3.90 it crosses Merrimac. The total distance from the library to the mall is 5.762 miles.</string>
+		<string>High</string>
+		<string>2016-10-12 at 15:45</string>
+	</array>
+	<key>Go to Oktoberfest</key>
+	<array>
+		<string>YES</string>
+		<string>Join the Rotary Club of Blacksburg to celebrate with German food, music, fun, fellowship and dancing with The Sauerkraut Band at the Blacksburg Country Club on Oktober 25 from 5 pm till 10 pm. Proceeds go to help NRV community services and scholarships.</string>
+		<string>High</string>
+		<string>2016-10-25 at 17:00</string>
+	</array>
+	<key>Get Tickets for Moss Arts Center</key>
+	<array>
+		<string>NO</string>
+		<string>Virginia Tech’s Moss Arts Center presents renowned artists from around the globe and from close to home, with a special focus on experiences that expand cultural awareness and deepen understanding. Uniquely partnered with the Institute for Creativity, Arts, and Technology, the Moss Arts Center houses the Street and Davis Performance Hall and its Anne and Ellen Fife Theatre, visual art galleries, the experimental venue the Cube, and research studios.</string>
+		<string>Low</string>
+		<string>2016-12-17 at 13:45</string>
+	</array>
+	<key>Watch VT-GT Football Game</key>
+	<array>
+		<string>YES</string>
+		<string>Go to the Virginia Tech - Georgia Tech football game on Saturday, November 12, 3:30 pm at Lane Stadium /Worsham Field, Blacksburg, Virginia. If you cannot find tickets, watch the game on ESPU.</string>
+		<string>Normal</string>
+		<string>2016-11-12 at 15:30</string>
+	</array>
+	<key>See a Movie at the Lyric Theatre</key>
+	<array>
+		<string>YES</string>
+		<string>Since 1998, the Lyric has operated a not-for-profit movie theatre and community center in the heart of downtown Blacksburg, Virginia. It is located on College Avenue across the street from Virginia Tech&apos;s main campus. See http://www.thelyric.com/ for more information.</string>
+		<string>Low</string>
+		<string>2016-11-21 at 19:15</string>
+	</array>
+	<key>Visit Alexander Black House</key>
+	<array>
+		<string>NO</string>
+		<string>The Alexander Black House is a historical house of Queen Anne Victorian architectural style located at 204 Draper Rd SW, Blacksburg, VA 24060. This historic house was first built in 1897 by Alexander Black; since then the house has been renovated to allow public access to the first floor and we hope to continue with further preservation.</string>
+		<string>Normal</string>
+		<string>2016-12-20 at 18:30</string>
+	</array>
+	<key>Visit Arlington National Cemetery</key>
+	<array>
+		<string>NO</string>
+		<string>Arlington National Cemetery is a United States military cemetery in Arlington County, Virginia, across the Potomac River from Washington, D.C., in whose 624 acres (253 ha) the dead of the nation&apos;s conflicts have been buried, beginning with the American Civil War, as well as reinterred dead from earlier wars. The United States Department of the Army, a component of the United States Department of Defense, controls the cemetery. [Wikipedia]</string>
+		<string>Normal</string>
+		<string>2016-11-11 at 11:30</string>
+	</array>
+	<key>Plan a Trip for Busch Gardens</key>
+	<array>
+		<string>NO</string>
+		<string>Busch Gardens Williamsburg (formerly known as Busch Gardens Europe and Busch Gardens: The Old Country) is a 383-acre (155 ha) theme park located in James City County, Virginia, about 60.40 miles (97.20 km) northwest of Virginia Beach, originally developed by Anheuser-Busch (A-B) and currently owned by SeaWorld Entertainment, a division of Blackstone Group. The park opened on May 16, 1975, adjacent to Anheuser-Busch&apos;s brewery and near its other developments including the Kingsmill Resort complex. The park is themed around various European countries. [Wikipedia]</string>
+		<string>High</string>
+		<string>2017-01-15 at 10:00</string>
+	</array>
+	<key>Run in Blue Ridge Marathon</key>
+	<array>
+		<string>NO</string>
+		<string>The Foot Levelers Blue Ridge Marathon Series has earned its title as “America’s Toughest Road Marathon” by challenging runners with over 7,430 ft. in elevation change, more than any other road marathon in the U.S.  This race is the ONLY marathon that runs along the famously scenic Blue Ridge Parkway, and proceeds from this non-profit event benefit the parkway and a dozen local charities every year.  The full, half and 10k all prove equally challenging yet rewarding on this mountainous course, and all runners are rewarded with free socks, unique finishers’ medals, shirts and local craft beer at the festival-like finish in downtown Roanoke.</string>
+		<string>Low</string>
+		<string>2017-04-21 at 15:00</string>
+	</array>
+	<key>Meet Friends at Water Country USA</key>
+	<array>
+		<string>NO</string>
+		<string>Water Country USA is a water theme park in Williamsburg, Virginia, USA. It is the Mid-Atlantic&apos;s largest water park, and it offers live entertainment, shops and restaurants, water rides, and other attractions, all of which have a 1950s or 1960s surf theme. It is owned by SeaWorld Entertainment. The park is just a few miles away from Busch Gardens Williamsburg, with which it shares clientele. Multi-park passes are available, and a parking pass at Water Country USA is valid for same-day entry to Busch Gardens Williamsburg. [Wikipedia]</string>
+		<string>Normal</string>
+		<string>2017-07-18 at 9:30</string>
+	</array>
+	<key>Join Family for Vacation in Rome</key>
+	<array>
+		<string>NO</string>
+		<string>Rome is a city and special comune (named Roma Capitale) in Italy. Rome is the capital of Italy and of the Lazio region. With 2.9 million residents in 1,285 km2 (496.1 sq mi), it is also the country&apos;s largest and most populated comune and fourth-most populous city in the European Union by population within city limits. The Metropolitan City of Rome has a population of 4.3 million residents. The city is located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of Tiber river. The Vatican City is an independent country geographically located within the city boundaries of Rome, the only existing example of a country within a city: for this reason Rome has been often defined as capital of two states. [Wikipedia]</string>
+		<string>High</string>
+		<string>2017-06-17 at 20:30</string>
+	</array>
+</dict>
+</plist>
